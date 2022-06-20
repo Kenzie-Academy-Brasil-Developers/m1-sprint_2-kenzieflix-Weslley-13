@@ -1,0 +1,148 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@100&display=swap');
+
+body{
+    background-color: black;
+}
+.container{
+font-family: IBM Plex Sans;
+width: 91rem;
+height: 42rem;
+margin: 3rem;
+background-color: #121214;
+}
+
+.flix{
+display: flex;
+justify-content: center;
+}
+
+h1{
+justify-content: center;
+display: flex;
+margin: 50px;
+height: 10px;
+color: white;
+}
+.box{
+margin: 55px;
+display: flex;
+justify-content: center;
+margin-block: 6rem;
+border-radius: 10px;
+}
+
+.box1{
+margin: 14px;
+width: 170px;
+height: 170px;
+max-width: 170px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+border-radius: 10px;
+align-items: center;
+}
+
+.box2{
+margin: 14px;
+width: 170px;
+height: 170px;
+max-width: 170px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+border-radius: 10px;
+align-items: center;
+}
+
+.box3{
+    margin: 14px;
+    width: 170px;
+    height: 170px;
+    max-width: 170px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border-radius: 10px;
+    align-items: center;
+}
+
+.box4{
+    margin: 14px;
+    width: 170px;
+    height: 170px;
+    max-width: 170px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border-radius: 10px;
+    align-items: center;
+}
+
+.box1 h2{
+font-size: 14px;
+margin: 57px;
+margin-block: auto;
+color: #9C9C9C;
+display: flex;
+}
+
+.box2 h2{
+font-size: 14px;
+margin: 57px;
+margin-block: auto;
+color:#9C9C9C;
+display: flex;
+}
+
+.box3 h2{
+font-size: 14px;
+margin: 57px;
+margin-block: auto;
+color: #9C9C9C;
+display: flex;
+}
+
+.box4 h2{
+margin: 0;
+margin-block: 0;
+font-size: 14px;
+color: #9C9C9C;
+margin-left: 2rem;
+}
+
+.Gerenciarperfil{
+height: 3rem;
+width: 15rem;
+}
+
+img{
+width: 160px;;
+border-radius: 10px;
+}
+
+img:hover{
+border: solid 3px blueviolet;
+}
+
+.Gerenciarperfil button{
+margin-left: 605px;
+height: 50px;
+width: 245px;
+color: white;
+background-color: black;
+border: inset;
+border-radius: 10px;
+}
+.Gerenciarperfil button:hover{
+border: solid 3px blueviolet;
+}
+
+
+
+
+
+
+
+
+
